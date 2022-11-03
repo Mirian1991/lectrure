@@ -19,11 +19,12 @@
 .may { color: #3d58a6; 
        margin-left:10px;
        margin-top:10px ;
-       margin-bottom: 30px; }
+       margin-bottom: 30px; 
+       font-family: BPG Nino Mtavruli;}
 
 .lorem1 { margin-left: 10px;
          margin-bottom: 16px; 
-         }
+          font-family: BPG Nino Mtavruli;}
 
 .codept { display: inline-block;
          margin-left: 10px;
@@ -49,7 +50,8 @@
          margin-bottom: 192px;
       text-align:text-bottom ; }
 
-.startmenu { color: #3d58a6; }
+.startmenu { color: #3d58a6; 
+             font-family: BPG Nino Mtavruli;}
 
 
 .pizza { display: inline-block; 
@@ -108,7 +110,8 @@
 
 
 .resp { padding-left: 20px;
-        color: #3d58a6; }
+        color: #3d58a6;
+        font-family: roboto regular; }
 
 
 
@@ -124,7 +127,10 @@
       width: 356px;
       height: 143px;
       vertical-align:text-bottom;
-      color: #333333;}        
+      color: #333333;
+      font-family: roboto-regular;
+      letter-spacing: 1.2px;
+      line-height: 1.6;}        
 
 
 .border2 { border-style: solid;
@@ -137,9 +143,7 @@
             margin-bottom: 68px; }      
 
 
-.contact { border-style: solid; 
-
-         width: 238px;
+.contact {width: 238px;
          height: 93px;
          margin-top: 62px;
          margin-left: 97px;
@@ -171,3 +175,23 @@
 
 
 .startmenuflex { flex-shrink: 0; }
+
+
+
+.newssection { margin-left:50px ; }
+
+
+.newsfooter { margin-left: 50px; }
+
+
+
+.mainsecstion { margin-left: 70px; }
+
+
+.mainfooter { margin-left: 70px; }
+
+
+.mapfooter { margin-left: 70px; }
+
+
+.mapback { background-color: #e6e6e6; }
